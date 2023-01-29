@@ -17,11 +17,6 @@ Technical Skills:
   
 * Development Environments and Versioning: Jupyter Notebook, Linux, GitLab, GitHub
   
-Education:
-
-  Bachelor's Degree in Computational Modeling and Data Analytics from Virginia Tech  
-  
-  
 Projects:
 
   CNN Model Improvements on Thoracic X-Rays:
