@@ -5,8 +5,8 @@ Welcome to my GitHub page! I am a data scientist with experience in machine lear
 
 Technical Skills:
 
-Programming Languages: R, SQL, Python, Java, SAS, MATLAB, C
-Data Visualization: R, SAS, Tableau, JMP
+* Programming Languages: R, SQL, Python, Java, SAS, MATLAB, C
+* Data Visualization: R, SAS, Tableau, JMP
   Machine Learning Techniques: 
   Supervised Learning: Linear and Logistic Regressions, Support Vector Machines (SVM), Naive Bayes, kNN
     Unsupervised Learning: K-Means Clustering, Principal Component Analysis (PCA)
