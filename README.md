@@ -28,8 +28,6 @@ Projects:
   
   This project involved developing and implementing CNN models on thoracic radiological images to predict various pathologies, with a focus on improving model accuracy through the use of binary classification models based on age and gender, as well as pre-processing filters on images, resulting in a final accuracy of 89.2%.  
   
-  [Project Title]: A brief description of the project and the technologies used.
-  
 Contact:
 
   Email: mirabdullah@vt.edu  
