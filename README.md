@@ -30,5 +30,3 @@ Welcome to my GitHub page! I am a data scientist with experience in machine lear
   LinkedIn: https://www.linkedin.com/in/mir-abdullah/  
   
 Thank you for visiting my page! Feel free to contact me for any collaborations or opportunities.
-
--->
