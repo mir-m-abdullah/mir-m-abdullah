@@ -3,7 +3,7 @@
 Welcome to my GitHub page! I am a data scientist with experience in machine learning, deep learning, statistical modeling, and data visualization.
 
 
-Technical Skills:
+#### Technical Skills:
 
 * Programming Languages: R, SQL, Python, Java, SAS, MATLAB, C
 * Data Visualization: R, SAS, Tableau, JMP
@@ -17,13 +17,13 @@ Technical Skills:
   
 * Development Environments and Versioning: Jupyter Notebook, Linux, GitLab, GitHub
   
-Projects:
+#### Projects:
 
   CNN Model Improvements on Thoracic X-Rays:
   
   This project involved developing and implementing CNN models on thoracic radiological images to predict various pathologies, with a focus on improving model accuracy through the use of binary classification models based on age and gender, as well as pre-processing filters on images, resulting in a final accuracy of 89.2%.  
   
-Contact:
+#### Contact:
 
   Email: mirabdullah@vt.edu  
   
