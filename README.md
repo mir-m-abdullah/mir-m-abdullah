@@ -21,7 +21,7 @@ Welcome to my GitHub page! I am a data scientist with experience in machine lear
 
   CNN Model Improvements on Thoracic X-Rays:
   
-  This project involved developing and implementing CNN models on thoracic radiological images to predict various pathologies, with a focus on improving model accuracy through the use of binary classification models based on age and gender, as well as pre-processing filters on images, resulting in a final accuracy of 89.2%.  
+  This project involved developing and implementing CNN models on thoracic radiological images to predict various pathologies, with a focus on improving model accuracy through the use of binary classification models based on age and gender, as well as pre-processing filters on images, resulting in a final accuracy of 89.2%. Additional information can be found in the publication: https://arxiv.org/abs/1912.00233  
   
 ## Contact:
 
