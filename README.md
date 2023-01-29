@@ -17,8 +17,9 @@ Technical Skills:
   
 * Development Environments and Versioning: Jupyter Notebook, Linux, GitLab, GitHub
   
-Education
-  Bachelor's Degree in Computational Modeling and Data Analytics from Virginia Tech
+Education:
+
+  Bachelor's Degree in Computational Modeling and Data Analytics from Virginia Tech  
   
 Projects
   CNN Model Improvements on Thoracic X-Rays: This project involved developing and implementing CNN models on thoracic radiological images to predict various pathologies, with a focus on improving model accuracy through the use of binary classification models based on age and gender, as well as pre-processing filters on images, resulting in a final accuracy of 89.2%.
