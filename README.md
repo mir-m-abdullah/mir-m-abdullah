@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-Welcome to my GitHub page! I am a data scientist with experience in machine learning, statistical modeling, and data visualization.
+Welcome to my GitHub page! I am a data scientist with experience in machine learning, deep learning, statistical modeling, and data visualization.
 
 
-Technical Skills
+Technical Skills:
   Programming Languages: R, SQL, Python, Java, SAS, MATLAB, C
-  
   Data Visualization: R, SAS, Tableau, JMP
   
   Machine Learning Techniques:
