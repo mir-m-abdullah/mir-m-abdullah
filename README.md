@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Data Scientist - Mir Muhammad Abdullah
 Welcome to my GitHub page! I am a data scientist with experience in machine learning, statistical modeling, and data visualization.
 
 
