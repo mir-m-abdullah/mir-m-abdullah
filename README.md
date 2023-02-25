@@ -5,7 +5,7 @@ Welcome to my GitHub page! I am a data scientist with experience in machine lear
 
 ## Technical Skills:
 
-* Programming Languages: R, Python, SQL Java, SAS, MATLAB, C
+* Programming Languages: Python, R, SQL, Java, SAS, MATLAB, C
 * Data Visualization: R, SAS, Tableau, JMP
 * Machine Learning Techniques: 
 
