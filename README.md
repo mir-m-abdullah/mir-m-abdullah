@@ -5,23 +5,19 @@ Welcome to my GitHub page! I am a data scientist with experience in machine lear
 
 ## Technical Skills:
 
-* Programming Languages: Python, R, SQL, Java, SAS, MATLAB, C
-* Data Visualization: R, SAS, Tableau, JMP
-* Machine Learning Techniques: 
-
-   Supervised Learning: Linear and Logistic Regressions, Support Vector Machines (SVM), Naive Bayes, kNN
-    
-   Unsupervised Learning: K-Means Clustering, Principal Component Analysis (PCA)
-    
+* Programming Languages: Python, R, SQL, Java, MATLAB, C, SAS
+* Data Visualization: Python, R, Tableau, JMP, SAS
+* Machine Learning Frameworks: PyTorch, Scikit-learn  
+* Deep Learning Techniques: Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), Generative Adversarial Networks (GAN) (Learning)
 * Cloud Platforms/AWS Services: Athena, SageMaker, Rekognition, Lex, Polly, Translate, Transcribe, Kinesis, Lambda, Glue, Textract, S3
-  
 * Development Environments and Versioning: Jupyter Notebook, Linux, GitLab, GitHub
   
 ## Projects:
 
-  CNN Model Improvements on Thoracic X-Rays:
+* [CNN Model Improvements on Thoracic X-Rays]([url](https://arxiv.org/abs/1912.00233)): This project involved developing and implementing CNN models on thoracic radiological images to predict various pathologies, with a focus on improving model accuracy through the use of binary classification models based on age and gender, as well as pre-processing filters on images, resulting in a final accuracy of 89.2%. Additional information can be found in the publication: https://arxiv.org/abs/1912.00233 
   
-  This project involved developing and implementing CNN models on thoracic radiological images to predict various pathologies, with a focus on improving model accuracy through the use of binary classification models based on age and gender, as well as pre-processing filters on images, resulting in a final accuracy of 89.2%. Additional information can be found in the publication: https://arxiv.org/abs/1912.00233  
+  
+* [Breast Cancer Classification with Machine Learning](https://github.com/mir-m-abdullah/data-science-portfolio/tree/main/Breast%20Cancer%20Detection): A machine learning model to predict whether a breast cancer tumor is malignant or benign, using various statistical analysis tools. Identified the most accurate model and optimized its hyperparameters for better performance. The model can be used to help medical professionals make more informed decisions in the diagnosis and treatment of breast cancer.
   
 ## Contact:
 
