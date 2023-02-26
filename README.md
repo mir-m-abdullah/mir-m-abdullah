@@ -14,7 +14,7 @@ Welcome to my GitHub page! I am a data scientist with experience in machine lear
   
 ## Projects:
 
-* [CNN Model Improvements on Thoracic X-Rays]([url](https://arxiv.org/abs/1912.00233)): This project involved developing and implementing CNN models on thoracic radiological images to predict various pathologies, with a focus on improving model accuracy through the use of binary classification models based on age and gender, as well as pre-processing filters on images, resulting in a final accuracy of 89.2%. Additional information can be found in the publication: https://arxiv.org/abs/1912.00233 
+* [CNN Model Improvements on Thoracic X-Rays](https://arxiv.org/abs/1912.00233): This project involved developing and implementing CNN models on thoracic radiological images to predict various pathologies, with a focus on improving model accuracy through the use of binary classification models based on age and gender, as well as pre-processing filters on images, resulting in a final accuracy of 89.2%.
   
   
 * [Breast Cancer Classification with Machine Learning](https://github.com/mir-m-abdullah/data-science-portfolio/tree/main/Breast%20Cancer%20Detection): A machine learning model to predict whether a breast cancer tumor is malignant or benign, using various statistical analysis tools. Identified the most accurate model and optimized its hyperparameters for better performance. The model can be used to help medical professionals make more informed decisions in the diagnosis and treatment of breast cancer.
